@@ -1,0 +1,34 @@
+.menu {
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.active {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(214, 16, 16);
+}
+
+h2 {
+    color: rgb(34, 206, 11);
+}
+
+h3 {
+    color: purple;
+}
+
+ul {
+    list-style: none;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+}
